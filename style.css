@@ -1,0 +1,63 @@
+h1{
+    text-align: center;
+    font-style: italic;
+    color:rgb(42, 97, 165);
+    background-color: black;
+    /* border: 3px; */
+    border-radius: 2%;
+    border-style: dotted;
+    border-radius: 50px;
+}
+/* #para{
+    border: 4px;
+    background-color: rgb(250, 149, 24);
+    color: rebeccapurple;
+} */
+li{
+    list-style: lower-alpha;
+}
+/* table,td,th{
+    background-color: blue;
+    border: 5px;
+    width: 20%;
+    border-style: solid;
+} */
+/* .parag{
+    border: 3px;
+    border-color: black;
+    border-style: solid;
+    padding: 30px;
+    margin: 20px 300px 40px 250px;
+} */
+header{
+    /* background-color: rgb(196, 169, 169); */
+    border-radius: 50%;
+    /* border-style: dotted; */
+    text-align: center;
+}
+body{
+  background-color: rgb(245, 225, 225);
+  background-image: url("https://www.mohawkcollege.ca/sites/default/files/Student%20Life/zoom-bg/Welcome-Package_Zoom-Background_fennell.jpg");
+}
+ol{
+    color: brown;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+
+}
+button {
+    padding: 15px 30px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #28a745;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s;
+    text-align: center;
+}
+button:hover {
+    background-color: #218838;
+    transform: scale(1.05);
+}
+
